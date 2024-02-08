@@ -35,21 +35,21 @@ We applied the following Machine Learning methods on the provided dataset:
 
 This initial stage aimed to establish baseline performance. The top-performing models were KNN and Decision Tree.
 
-![Performance Results](./New folder/Image/output.png)
+![Performance Results](New folder/Image/output.png)
 
 In the second stage, we applied feature selection methods and dimensionality reduction techniques with the top two models.
 
-![Performance Results](./New folder/Image/output2.png)
+![Performance Results](New folder/Image/output2.png)
 
 In the third stage, we introduced additional machine learning models such as Random Forest and two ensemble techniques to further enhance performance.
 
-![Performance Results](./New folder/Image/Untitldded.jpg)
+![Performance Results](New folder/Image/Untitldded.jpg)
 
 The Stacking Classifier emerged as the top performer, combining the strengths of KNN and Decision Tree classifiers along with ensemble techniques.
 
 Finally, we applied Public Key Infrastructure (PKI) for enhanced security and reliability.
 
-![PKI](./New folder/Image/Untitled.jpg)
+![PKI](New folder/Image/Untitled.jpg)
 
 
 ## Project File
